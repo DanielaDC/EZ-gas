@@ -1,0 +1,6 @@
+type(Key.PAGE_DOWN)
+type("1590866580848.png", "Turin")
+click("1590866938926.png")
+click("1590866616051.png")
+type(Key.PAGE_DOWN * 3)
+wait("1590867414621.png")
